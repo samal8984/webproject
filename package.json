@@ -1,6 +1,9 @@
 {
   "name": "socialmedia",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.17.0"
+  },
   "description": "social media app using mern",
   "main": "server.js",
   "scripts": {
@@ -27,4 +30,5 @@
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
+
 }
